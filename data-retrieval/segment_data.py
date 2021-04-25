@@ -1,15 +1,6 @@
-import sys
-import os
-import numpy as np
-from datetime import datetime, timedelta
-import ooipy
-from ooipy.request.hydrophone_request import get_acoustic_data
-from ooipy.hydrophone.basic import Spectrogram
-import pickle
-import logging
-from datetime import datetime
-import time
 
+import numpy as np
+import pickle
 
 class SegmentData:
 

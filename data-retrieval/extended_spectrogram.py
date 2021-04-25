@@ -1,4 +1,4 @@
-import sys
+
 import os
 import numpy as np
 from datetime import datetime, timedelta
@@ -7,8 +7,6 @@ from ooipy.request.hydrophone_request import get_acoustic_data
 from ooipy.hydrophone.basic import Spectrogram
 import pickle
 import logging
-from datetime import datetime
-import time
 from segment_data import SegmentData
 from meta_file import MetaFile
 from profiling_file import ProfilingFile

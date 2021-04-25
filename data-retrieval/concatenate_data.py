@@ -1,27 +1,10 @@
-import numpy as np
-from datetime import datetime, timedelta
-from ooipy.request.hydrophone_request import get_acoustic_data
-import ooipy
-from ooipy.hydrophone.basic import Spectrogram
-from ooipy.hydrophone.basic import Psd
+
 import os
 import pickle
-import logging
 from datetime import datetime
-import time
-import numpy.ma as ma
-from segment_data import SegmentData
-
-from ooipy.tools.ooiplotlib import plot
-from ooipy.tools.ooiplotlib import plot_spectrogram
-from ooipy.tools.ooiplotlib import plot_psd
-
 import numpy as np
-import matplotlib
-from matplotlib import pyplot as plt
+
 from ooipy.hydrophone.basic import Spectrogram, Psd, HydrophoneData
-from matplotlib.colors import Normalize
-import matplotlib.dates as mdates
 
 
 def open_spectrogram(file_name):
