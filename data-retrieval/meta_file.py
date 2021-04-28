@@ -116,17 +116,17 @@ class MetaFile:
 
 
 def get_node_location(node):
-    if node == '/LJ01D':
+    if node == 'LJ01D':
         return "Oregon Shelf Base Seafloor"
-    if node == '/LJ01A':
+    if node == 'LJ01A':
         return "Oregon Slope Base Seafloor"
-    if node == "/PC01A":
+    if node == "PC01A":
         return "Oregon Slope Base Shallow"
-    if node == "/PC03A":
+    if node == "PC03A":
         return "Axial Base Shallow Profiler"
-    if node == "/LJ01C":
+    if node == "LJ01C":
         return "Oregon Offshore Base Seafloor"
-    if node == "/LJ03A":
+    if node == "LJ03A":
         return "Axial Base Seafloor"
     else:
         return "Unregistered Location"

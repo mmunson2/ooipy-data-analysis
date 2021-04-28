@@ -179,6 +179,7 @@ if __name__ == '__main__':
 
         print("Compressing " + directory)
 
+        # Comment out two lines below to skip data compression
         small_spectrogram = downsize_spectrogram(full_spectrogram)
 
         small_spectrogram.save("reduced_data.pickle")

@@ -1,0 +1,1000 @@
+13:03:02,786 root INFO Logging started
+13:03:02,786 root INFO Starting processing loop
+13:03:02,786 root INFO Downloading Section0of96
+13:03:02,836 asyncio DEBUG Using selector: EpollSelector
+13:03:02,837 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:03,448 root INFO No data could be retrieved for segment
+13:03:03,450 root INFO Spectrogram file created
+13:03:03,450 root INFO Downloading Section1of96
+13:03:03,450 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:04,8 root INFO No data could be retrieved for segment
+13:03:04,9 root INFO Spectrogram file created
+13:03:04,10 root INFO Downloading Section2of96
+13:03:04,10 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:04,567 root INFO No data could be retrieved for segment
+13:03:04,569 root INFO Spectrogram file created
+13:03:04,569 root INFO Downloading Section3of96
+13:03:04,570 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:05,120 root INFO No data could be retrieved for segment
+13:03:05,122 root INFO Spectrogram file created
+13:03:05,122 root INFO Downloading Section4of96
+13:03:05,123 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:05,671 root INFO No data could be retrieved for segment
+13:03:05,673 root INFO Spectrogram file created
+13:03:05,673 root INFO Downloading Section5of96
+13:03:05,674 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:06,224 root INFO No data could be retrieved for segment
+13:03:06,226 root INFO Spectrogram file created
+13:03:06,226 root INFO Downloading Section6of96
+13:03:06,226 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:06,793 root INFO No data could be retrieved for segment
+13:03:06,795 root INFO Spectrogram file created
+13:03:06,795 root INFO Downloading Section7of96
+13:03:06,795 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:07,348 root INFO No data could be retrieved for segment
+13:03:07,349 root INFO Spectrogram file created
+13:03:07,350 root INFO Downloading Section8of96
+13:03:07,350 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:07,889 root INFO No data could be retrieved for segment
+13:03:07,891 root INFO Spectrogram file created
+13:03:07,891 root INFO Downloading Section9of96
+13:03:07,892 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:03:08,424 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:03:08,425 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:03:08,426 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:03:08,796 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:25:00.000015.mseed HTTP/1.1" 200 38137856
+13:03:08,802 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:20:00.000015.mseed HTTP/1.1" 200 38232064
+13:03:08,802 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:15:23.582250.mseed HTTP/1.1" 200 35487744
+13:04:30,168 root INFO Data retrieved for segment
+13:04:30,169 root INFO Spectrogram file created
+13:04:30,169 root INFO Downloading Section10of96
+13:04:30,170 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:04:30,850 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:04:30,850 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:04:30,852 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:04:30,854 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:04:31,247 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:35:00.000015.mseed HTTP/1.1" 200 38195200
+13:04:31,260 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:30:00.000015.mseed HTTP/1.1" 200 38150144
+13:04:31,278 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:25:00.000015.mseed HTTP/1.1" 200 38137856
+13:04:31,284 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:40:00.000015.mseed HTTP/1.1" 200 38043648
+13:05:59,428 root INFO Data retrieved for segment
+13:05:59,429 root INFO Spectrogram file created
+13:05:59,430 root INFO Downloading Section11of96
+13:05:59,430 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:06:00,47 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:06:00,48 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:06:00,49 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:06:00,50 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:06:00,485 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:55:00.000015.mseed HTTP/1.1" 200 37965824
+13:06:00,495 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:45:00.000015.mseed HTTP/1.1" 200 37924864
+13:06:00,497 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:40:00.000015.mseed HTTP/1.1" 200 38043648
+13:06:00,529 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:50:00.000015.mseed HTTP/1.1" 200 37941248
+13:07:32,689 root INFO Data retrieved for segment
+13:07:32,690 root INFO Spectrogram file created
+13:07:32,692 root INFO Downloading Section12of96
+13:07:32,692 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:07:33,305 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:07:33,306 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:07:33,308 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:07:33,309 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:07:33,709 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:05:00.000015.mseed HTTP/1.1" 200 38043648
+13:07:33,732 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:10:00.000015.mseed HTTP/1.1" 200 38096896
+13:07:33,733 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:00:00.000015.mseed HTTP/1.1" 200 37969920
+13:07:33,785 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T02:55:00.000015.mseed HTTP/1.1" 200 37965824
+13:09:02,929 root INFO Data retrieved for segment
+13:09:02,929 root INFO Spectrogram file created
+13:09:02,931 root INFO Downloading Section13of96
+13:09:02,931 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:09:03,552 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:09:03,554 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:09:03,554 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:09:03,555 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:09:04,88 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:25:00.000015.mseed HTTP/1.1" 200 38051840
+13:09:04,132 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:20:00.000015.mseed HTTP/1.1" 200 38100992
+13:09:04,155 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:10:00.000015.mseed HTTP/1.1" 200 38096896
+13:09:04,181 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:15:00.000015.mseed HTTP/1.1" 200 38064128
+13:10:37,285 root INFO Data retrieved for segment
+13:10:37,287 root INFO Spectrogram file created
+13:10:37,289 root INFO Downloading Section14of96
+13:10:37,290 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:10:37,891 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:10:37,893 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:10:37,893 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:10:37,895 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:10:38,288 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:40:00.000015.mseed HTTP/1.1" 200 38019072
+13:10:38,302 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:30:00.000015.mseed HTTP/1.1" 200 38096896
+13:10:38,325 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:35:00.000015.mseed HTTP/1.1" 200 38055936
+13:10:38,353 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:25:00.000015.mseed HTTP/1.1" 200 38051840
+13:12:11,969 root INFO Data retrieved for segment
+13:12:11,972 root INFO Spectrogram file created
+13:12:11,977 root INFO Downloading Section15of96
+13:12:11,977 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:12:12,583 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:12:12,586 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:12:12,586 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:12:12,588 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:12:12,994 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:40:00.000015.mseed HTTP/1.1" 200 38019072
+13:12:13,11 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:50:00.000015.mseed HTTP/1.1" 200 37740544
+13:12:13,36 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:55:00.000015.mseed HTTP/1.1" 200 37531648
+13:12:13,62 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:45:00.000015.mseed HTTP/1.1" 200 37969920
+13:13:51,449 root INFO Data retrieved for segment
+13:13:51,450 root INFO Spectrogram file created
+13:13:51,451 root INFO Downloading Section16of96
+13:13:51,451 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:13:52,261 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:13:52,263 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:13:52,264 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:13:52,265 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:13:52,670 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:05:00.000000.mseed HTTP/1.1" 200 37412864
+13:13:52,702 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T03:55:00.000015.mseed HTTP/1.1" 200 37531648
+13:13:52,733 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:00:00.000000.mseed HTTP/1.1" 200 37433344
+13:13:52,745 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:10:00.000000.mseed HTTP/1.1" 200 37281792
+13:15:32,608 root INFO Data retrieved for segment
+13:15:32,609 root INFO Spectrogram file created
+13:15:32,610 root INFO Downloading Section17of96
+13:15:32,611 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:15:33,335 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:15:33,336 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:15:33,337 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:15:33,337 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:15:33,740 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:25:00.000000.mseed HTTP/1.1" 200 37687296
+13:15:33,790 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:20:00.000000.mseed HTTP/1.1" 200 37097472
+13:15:33,805 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:10:00.000000.mseed HTTP/1.1" 200 37281792
+13:15:33,827 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:15:00.000000.mseed HTTP/1.1" 200 37228544
+13:17:13,96 root INFO Data retrieved for segment
+13:17:13,97 root INFO Spectrogram file created
+13:17:13,98 root INFO Downloading Section18of96
+13:17:13,99 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:17:13,788 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:17:13,790 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:17:13,791 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:17:13,792 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:17:14,299 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:40:00.000000.mseed HTTP/1.1" 200 37679104
+13:17:14,300 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:25:00.000000.mseed HTTP/1.1" 200 37687296
+13:17:14,304 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:35:00.000000.mseed HTTP/1.1" 200 37711872
+13:17:14,306 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:30:00.000000.mseed HTTP/1.1" 200 37789696
+13:19:01,85 root INFO Data retrieved for segment
+13:19:01,86 root INFO Spectrogram file created
+13:19:01,87 root INFO Downloading Section19of96
+13:19:01,88 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:19:01,726 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:19:01,727 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:19:01,729 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:19:01,730 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:19:02,261 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:45:00.000000.mseed HTTP/1.1" 200 37740544
+13:19:02,279 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:50:00.000016.mseed HTTP/1.1" 200 37527552
+13:19:02,283 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:55:00.000016.mseed HTTP/1.1" 200 37380096
+13:19:02,291 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:40:00.000000.mseed HTTP/1.1" 200 37679104
+13:20:48,469 root INFO Data retrieved for segment
+13:20:48,470 root INFO Spectrogram file created
+13:20:48,471 root INFO Downloading Section20of96
+13:20:48,471 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:20:49,152 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:20:49,155 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:20:49,155 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:20:49,156 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:20:49,546 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T04:55:00.000016.mseed HTTP/1.1" 200 37380096
+13:20:49,576 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:10:00.000016.mseed HTTP/1.1" 200 37376000
+13:20:49,595 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:05:00.000016.mseed HTTP/1.1" 200 37388288
+13:20:49,628 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:00:00.000016.mseed HTTP/1.1" 200 37322752
+13:22:39,79 root INFO Data retrieved for segment
+13:22:39,80 root INFO Spectrogram file created
+13:22:39,81 root INFO Downloading Section21of96
+13:22:39,81 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:22:39,737 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:22:39,739 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:22:39,739 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:22:39,741 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:22:40,249 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:15:00.000016.mseed HTTP/1.1" 200 37441536
+13:22:40,250 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:20:00.000016.mseed HTTP/1.1" 200 37437440
+13:22:40,250 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:25:00.000016.mseed HTTP/1.1" 200 37486592
+13:22:40,251 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:10:00.000016.mseed HTTP/1.1" 200 37376000
+13:24:20,126 root INFO Data retrieved for segment
+13:24:20,127 root INFO Spectrogram file created
+13:24:20,128 root INFO Downloading Section22of96
+13:24:20,129 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:24:21,25 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:24:21,27 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:24:21,28 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:24:21,30 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:24:21,525 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:35:00.000015.mseed HTTP/1.1" 200 37568512
+13:24:21,526 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:40:00.000015.mseed HTTP/1.1" 200 37584896
+13:24:21,527 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:25:00.000016.mseed HTTP/1.1" 200 37486592
+13:24:21,527 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:30:00.000015.mseed HTTP/1.1" 200 37486592
+13:25:59,525 root INFO Data retrieved for segment
+13:25:59,526 root INFO Spectrogram file created
+13:25:59,527 root INFO Downloading Section23of96
+13:25:59,528 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:26:00,211 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:26:00,213 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:26:00,213 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:26:00,213 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:26:00,651 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:40:00.000015.mseed HTTP/1.1" 200 37584896
+13:26:00,652 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:55:00.000015.mseed HTTP/1.1" 200 37687296
+13:26:00,682 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:45:00.000015.mseed HTTP/1.1" 200 37662720
+13:26:00,694 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:50:00.000015.mseed HTTP/1.1" 200 37679104
+13:27:40,241 root INFO Data retrieved for segment
+13:27:40,242 root INFO Spectrogram file created
+13:27:40,243 root INFO Downloading Section24of96
+13:27:40,243 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:27:41,121 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:27:41,123 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:27:41,126 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:27:41,126 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:27:41,620 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:00:00.000015.mseed HTTP/1.1" 200 37425152
+13:27:41,620 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T05:55:00.000015.mseed HTTP/1.1" 200 37687296
+13:27:41,621 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:05:00.000015.mseed HTTP/1.1" 200 37634048
+13:27:41,622 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:10:00.000015.mseed HTTP/1.1" 200 37580800
+13:29:22,391 root INFO Data retrieved for segment
+13:29:22,392 root INFO Spectrogram file created
+13:29:22,393 root INFO Downloading Section25of96
+13:29:22,393 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:29:23,106 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:29:23,107 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:29:23,108 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:29:23,109 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:29:23,612 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:20:00.000015.mseed HTTP/1.1" 200 37249024
+13:29:23,613 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:25:00.000000.mseed HTTP/1.1" 200 37384192
+13:29:23,614 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:10:00.000015.mseed HTTP/1.1" 200 37580800
+13:29:23,614 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:15:00.000015.mseed HTTP/1.1" 200 37396480
+13:33:15,519 root INFO Data retrieved for segment
+13:33:15,520 root INFO Spectrogram file created
+13:33:15,521 root INFO Downloading Section26of96
+13:33:15,521 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:33:16,278 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:33:16,279 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:33:16,281 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:33:16,282 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:33:16,282 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:33:16,283 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:33:16,885 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:40:00.000000.mseed HTTP/1.1" 200 23437312
+13:33:16,885 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:43:06.588250.mseed HTTP/1.1" 200 14217216
+13:33:16,886 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:30:00.000000.mseed HTTP/1.1" 200 37634048
+13:33:16,887 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:43:06.371687.mseed HTTP/1.1" 200 32768
+13:33:16,888 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:35:00.000000.mseed HTTP/1.1" 200 37744640
+13:33:16,889 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:25:00.000000.mseed HTTP/1.1" 200 37384192
+13:37:08,537 root INFO Data retrieved for segment
+13:37:08,538 root INFO Spectrogram file created
+13:37:08,539 root INFO Downloading Section27of96
+13:37:08,539 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:37:09,233 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:37:09,234 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:37:09,239 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:37:09,240 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:37:09,241 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:37:09,242 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:37:09,628 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:55:00.000000.mseed HTTP/1.1" 200 6328320
+13:37:09,629 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:55:50.867000.mseed HTTP/1.1" 200 32768
+13:37:09,644 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:50:00.000000.mseed HTTP/1.1" 200 37527552
+13:37:09,660 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:45:00.000000.mseed HTTP/1.1" 200 37601280
+13:37:09,677 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:43:06.588250.mseed HTTP/1.1" 200 14217216
+13:37:09,683 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:55:51.089563.mseed HTTP/1.1" 200 30986240
+13:49:43,379 root INFO Data retrieved for segment
+13:49:43,380 root INFO Spectrogram file created
+13:49:43,381 root INFO Downloading Section28of96
+13:49:43,381 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+13:49:44,3 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:49:44,4 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:49:44,6 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:49:44,6 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+13:49:44,513 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:10:00.000000.mseed HTTP/1.1" 200 37101568
+13:49:44,514 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:00:00.000000.mseed HTTP/1.1" 200 37302272
+13:49:44,551 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:05:00.000000.mseed HTTP/1.1" 200 37208064
+13:49:44,558 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T06:55:51.089563.mseed HTTP/1.1" 200 30986240
+14:00:04,282 root INFO Data retrieved for segment
+14:00:04,283 root INFO Spectrogram file created
+14:00:04,284 root INFO Downloading Section29of96
+14:00:04,285 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:00:05,46 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:00:05,47 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:00:05,48 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:00:05,50 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:00:05,563 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:20:00.000000.mseed HTTP/1.1" 200 36372480
+14:00:05,564 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:25:00.000000.mseed HTTP/1.1" 200 35880960
+14:00:05,580 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:10:00.000000.mseed HTTP/1.1" 200 37101568
+14:00:05,609 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:15:00.000000.mseed HTTP/1.1" 200 37040128
+14:01:45,329 root INFO Data retrieved for segment
+14:01:45,330 root INFO Spectrogram file created
+14:01:45,331 root INFO Downloading Section30of96
+14:01:45,332 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:01:46,11 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:01:46,12 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:01:46,14 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:01:46,15 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:01:46,412 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:25:00.000000.mseed HTTP/1.1" 200 35880960
+14:01:46,448 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:30:00.000000.mseed HTTP/1.1" 200 35827712
+14:01:46,474 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:40:00.000000.mseed HTTP/1.1" 200 35803136
+14:01:46,476 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:35:00.000000.mseed HTTP/1.1" 200 35799040
+14:03:30,345 root INFO Data retrieved for segment
+14:03:30,346 root INFO Spectrogram file created
+14:03:30,347 root INFO Downloading Section31of96
+14:03:30,348 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:03:30,983 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:03:30,986 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:03:30,987 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:03:30,988 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:03:31,489 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:45:00.000000.mseed HTTP/1.1" 200 35840000
+14:03:31,489 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:55:00.000000.mseed HTTP/1.1" 200 35766272
+14:03:31,489 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:40:00.000000.mseed HTTP/1.1" 200 35803136
+14:03:31,490 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:50:00.000000.mseed HTTP/1.1" 200 35708928
+14:05:16,866 root INFO Data retrieved for segment
+14:05:16,867 root INFO Spectrogram file created
+14:05:16,868 root INFO Downloading Section32of96
+14:05:16,869 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:05:17,614 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:05:17,616 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:05:17,617 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:05:17,618 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:05:18,190 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:10:00.000000.mseed HTTP/1.1" 200 35803136
+14:05:18,191 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T07:55:00.000000.mseed HTTP/1.1" 200 35766272
+14:05:18,191 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:05:00.000000.mseed HTTP/1.1" 200 35753984
+14:05:18,192 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:00:00.000000.mseed HTTP/1.1" 200 35897344
+14:09:11,774 root INFO Data retrieved for segment
+14:09:11,775 root INFO Spectrogram file created
+14:09:11,776 root INFO Downloading Section33of96
+14:09:11,776 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:09:12,489 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:09:12,490 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:09:12,492 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:09:12,493 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:09:12,993 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:20:00.000000.mseed HTTP/1.1" 200 35786752
+14:09:12,994 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:15:00.000000.mseed HTTP/1.1" 200 35926016
+14:09:13,25 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:25:00.000000.mseed HTTP/1.1" 200 35725312
+14:09:13,63 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:10:00.000000.mseed HTTP/1.1" 200 35803136
+14:10:54,549 root INFO Data retrieved for segment
+14:10:54,550 root INFO Spectrogram file created
+14:10:54,551 root INFO Downloading Section34of96
+14:10:54,552 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:10:55,291 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:10:55,293 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:10:55,294 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:10:55,295 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:10:55,700 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:35:00.000000.mseed HTTP/1.1" 200 36515840
+14:10:55,719 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:25:00.000000.mseed HTTP/1.1" 200 35725312
+14:10:55,742 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:40:00.000000.mseed HTTP/1.1" 200 36605952
+14:10:55,770 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:30:00.000000.mseed HTTP/1.1" 200 36241408
+14:12:37,315 root INFO Data retrieved for segment
+14:12:37,316 root INFO Spectrogram file created
+14:12:37,317 root INFO Downloading Section35of96
+14:12:37,318 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:12:37,937 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:12:37,940 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:12:37,941 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:12:37,942 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:12:38,326 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:45:00.000000.mseed HTTP/1.1" 200 36708352
+14:12:38,354 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:55:00.000000.mseed HTTP/1.1" 200 36659200
+14:12:38,369 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:50:00.000000.mseed HTTP/1.1" 200 36626432
+14:12:38,438 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:40:00.000000.mseed HTTP/1.1" 200 36605952
+14:14:22,661 root INFO Data retrieved for segment
+14:14:22,662 root INFO Spectrogram file created
+14:14:22,663 root INFO Downloading Section36of96
+14:14:22,664 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:14:23,387 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:14:23,387 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:14:23,390 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:14:23,390 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:14:23,886 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:10:00.000000.mseed HTTP/1.1" 200 37126144
+14:14:23,889 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T08:55:00.000000.mseed HTTP/1.1" 200 36659200
+14:14:23,917 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:00:00.000000.mseed HTTP/1.1" 200 36859904
+14:14:23,942 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:05:00.000000.mseed HTTP/1.1" 200 36970496
+14:16:05,778 root INFO Data retrieved for segment
+14:16:05,779 root INFO Spectrogram file created
+14:16:05,780 root INFO Downloading Section37of96
+14:16:05,781 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:16:06,503 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:16:06,506 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:16:06,507 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:16:06,508 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:16:07,10 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:25:00.000000.mseed HTTP/1.1" 200 37445632
+14:16:07,11 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:10:00.000000.mseed HTTP/1.1" 200 37126144
+14:16:07,11 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:20:00.000000.mseed HTTP/1.1" 200 37281792
+14:16:07,12 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:15:00.000000.mseed HTTP/1.1" 200 37298176
+14:17:48,656 root INFO Data retrieved for segment
+14:17:48,657 root INFO Spectrogram file created
+14:17:48,659 root INFO Downloading Section38of96
+14:17:48,659 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:17:49,416 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:17:49,419 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:17:49,420 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:17:49,421 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:17:49,929 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:30:00.000000.mseed HTTP/1.1" 200 37490688
+14:17:49,930 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:25:00.000000.mseed HTTP/1.1" 200 37445632
+14:17:49,930 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:40:00.000000.mseed HTTP/1.1" 200 37220352
+14:17:49,931 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:35:00.000000.mseed HTTP/1.1" 200 37326848
+14:19:33,417 root INFO Data retrieved for segment
+14:19:33,417 root INFO Spectrogram file created
+14:19:33,419 root INFO Downloading Section39of96
+14:19:33,419 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:19:34,75 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:19:34,76 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:19:34,77 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:19:34,78 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:19:34,586 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:40:00.000000.mseed HTTP/1.1" 200 37220352
+14:19:34,587 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:50:00.000000.mseed HTTP/1.1" 200 37535744
+14:19:34,587 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:45:00.000000.mseed HTTP/1.1" 200 37203968
+14:19:34,589 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:55:00.000000.mseed HTTP/1.1" 200 37851136
+14:21:20,224 root INFO Data retrieved for segment
+14:21:20,225 root INFO Spectrogram file created
+14:21:20,226 root INFO Downloading Section40of96
+14:21:20,226 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:21:20,881 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:21:20,883 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:21:20,883 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:21:20,885 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:21:21,394 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T09:55:00.000000.mseed HTTP/1.1" 200 37851136
+14:21:21,395 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:00:00.000000.mseed HTTP/1.1" 200 37892096
+14:21:21,395 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:10:00.000000.mseed HTTP/1.1" 200 37613568
+14:21:21,396 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:05:00.000000.mseed HTTP/1.1" 200 38154240
+14:23:04,25 root INFO Data retrieved for segment
+14:23:04,26 root INFO Spectrogram file created
+14:23:04,27 root INFO Downloading Section41of96
+14:23:04,27 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:23:04,722 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:23:04,724 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:23:04,725 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:23:04,727 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:23:05,231 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:15:00.000000.mseed HTTP/1.1" 200 37404672
+14:23:05,232 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:25:00.000000.mseed HTTP/1.1" 200 37511168
+14:23:05,249 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:10:00.000000.mseed HTTP/1.1" 200 37613568
+14:23:05,272 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:20:00.000000.mseed HTTP/1.1" 200 37351424
+14:24:48,217 root INFO Data retrieved for segment
+14:24:48,218 root INFO Spectrogram file created
+14:24:48,219 root INFO Downloading Section42of96
+14:24:48,220 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:24:48,873 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:24:48,874 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:24:48,876 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:24:48,878 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:24:49,269 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:25:00.000000.mseed HTTP/1.1" 200 37511168
+14:24:49,292 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:35:00.000000.mseed HTTP/1.1" 200 37232640
+14:24:49,305 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:40:00.000000.mseed HTTP/1.1" 200 37380096
+14:24:49,352 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:30:00.000000.mseed HTTP/1.1" 200 37318656
+14:28:40,445 root INFO Data retrieved for segment
+14:28:40,446 root INFO Spectrogram file created
+14:28:40,447 root INFO Downloading Section43of96
+14:28:40,447 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:28:41,60 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:28:41,62 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:28:41,64 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:28:41,65 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:28:41,522 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:45:00.000000.mseed HTTP/1.1" 200 37441536
+14:28:41,522 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:50:00.000000.mseed HTTP/1.1" 200 37277696
+14:28:41,544 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:40:00.000000.mseed HTTP/1.1" 200 37380096
+14:28:41,571 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:55:00.000000.mseed HTTP/1.1" 200 37277696
+14:36:53,222 root INFO Data retrieved for segment
+14:36:53,222 root INFO Spectrogram file created
+14:36:53,224 root INFO Downloading Section44of96
+14:36:53,224 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:36:54,76 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:36:54,77 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:36:54,78 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:36:54,80 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:36:54,587 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:05:00.000000.mseed HTTP/1.1" 200 37330944
+14:36:54,588 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:10:00.000000.mseed HTTP/1.1" 200 36405248
+14:36:54,605 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T10:55:00.000000.mseed HTTP/1.1" 200 37277696
+14:36:54,626 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:00:00.000000.mseed HTTP/1.1" 200 37302272
+14:47:18,957 root INFO Data retrieved for segment
+14:47:18,957 root INFO Spectrogram file created
+14:47:18,959 root INFO Downloading Section45of96
+14:47:18,959 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:47:19,747 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:47:19,749 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:47:19,750 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:47:19,752 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:47:20,465 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:10:00.000000.mseed HTTP/1.1" 200 36405248
+14:47:20,466 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:20:00.000000.mseed HTTP/1.1" 200 35934208
+14:47:20,466 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:15:00.000000.mseed HTTP/1.1" 200 36114432
+14:47:20,467 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:25:00.000015.mseed HTTP/1.1" 200 36077568
+14:51:20,579 root INFO Data retrieved for segment
+14:51:20,580 root INFO Spectrogram file created
+14:51:20,581 root INFO Downloading Section46of96
+14:51:20,582 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:51:21,311 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:51:21,313 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:51:21,315 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:51:21,316 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:51:21,727 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:35:00.000015.mseed HTTP/1.1" 200 36388864
+14:51:21,748 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:40:00.000015.mseed HTTP/1.1" 200 36179968
+14:51:21,769 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:30:00.000015.mseed HTTP/1.1" 200 36265984
+14:51:21,798 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:25:00.000015.mseed HTTP/1.1" 200 36077568
+14:53:02,10 root INFO Data retrieved for segment
+14:53:02,11 root INFO Spectrogram file created
+14:53:02,12 root INFO Downloading Section47of96
+14:53:02,12 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:53:02,790 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:53:02,791 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:53:02,793 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:53:02,794 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:53:03,243 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:45:00.000015.mseed HTTP/1.1" 200 36315136
+14:53:03,262 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:40:00.000015.mseed HTTP/1.1" 200 36179968
+14:53:03,295 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:50:00.000015.mseed HTTP/1.1" 200 36433920
+14:53:03,326 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:55:00.000015.mseed HTTP/1.1" 200 36413440
+14:54:43,917 root INFO Data retrieved for segment
+14:54:43,918 root INFO Spectrogram file created
+14:54:43,919 root INFO Downloading Section48of96
+14:54:43,919 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:54:44,574 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:54:44,576 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:54:44,577 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:54:44,579 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:54:45,30 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:00:00.000015.mseed HTTP/1.1" 200 36372480
+14:54:45,38 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:05:00.000015.mseed HTTP/1.1" 200 36306944
+14:54:45,65 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T11:55:00.000015.mseed HTTP/1.1" 200 36413440
+14:54:45,86 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:10:00.000015.mseed HTTP/1.1" 200 36306944
+14:56:25,76 root INFO Data retrieved for segment
+14:56:25,77 root INFO Spectrogram file created
+14:56:25,79 root INFO Downloading Section49of96
+14:56:25,79 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:56:25,842 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:56:25,843 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:56:25,844 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:56:25,846 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:56:26,258 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:20:00.000000.mseed HTTP/1.1" 200 36831232
+14:56:26,259 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:15:00.000015.mseed HTTP/1.1" 200 36282368
+14:56:26,291 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:10:00.000015.mseed HTTP/1.1" 200 36306944
+14:56:26,321 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:25:00.000015.mseed HTTP/1.1" 200 37240832
+14:58:12,572 root INFO Data retrieved for segment
+14:58:12,573 root INFO Spectrogram file created
+14:58:12,574 root INFO Downloading Section50of96
+14:58:12,575 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+14:58:13,263 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:58:13,264 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:58:13,266 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:58:13,267 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+14:58:13,655 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:25:00.000015.mseed HTTP/1.1" 200 37240832
+14:58:13,691 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:30:00.000000.mseed HTTP/1.1" 200 37154816
+14:58:13,726 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:40:00.000000.mseed HTTP/1.1" 200 37470208
+14:58:13,762 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:35:00.000000.mseed HTTP/1.1" 200 37216256
+15:00:03,835 root INFO Data retrieved for segment
+15:00:03,836 root INFO Spectrogram file created
+15:00:03,837 root INFO Downloading Section51of96
+15:00:03,838 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:00:04,474 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:00:04,475 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:00:04,475 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:00:04,476 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:00:04,986 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:55:00.000000.mseed HTTP/1.1" 200 37478400
+15:00:04,987 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:45:00.000000.mseed HTTP/1.1" 200 37388288
+15:00:04,992 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:40:00.000000.mseed HTTP/1.1" 200 37470208
+15:00:05,26 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:50:00.000000.mseed HTTP/1.1" 200 37351424
+15:03:56,296 root INFO Data retrieved for segment
+15:03:56,296 root INFO Spectrogram file created
+15:03:56,298 root INFO Downloading Section52of96
+15:03:56,298 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:03:57,52 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:03:57,53 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:03:57,55 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:03:57,56 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:03:57,515 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:00:00.000000.mseed HTTP/1.1" 200 37244928
+15:03:57,548 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T12:55:00.000000.mseed HTTP/1.1" 200 37478400
+15:03:57,568 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:05:00.000000.mseed HTTP/1.1" 200 37273600
+15:03:57,599 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:10:00.000000.mseed HTTP/1.1" 200 37249024
+15:05:35,772 root INFO Data retrieved for segment
+15:05:35,772 root INFO Spectrogram file created
+15:05:35,774 root INFO Downloading Section53of96
+15:05:35,774 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:05:36,560 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:05:36,562 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:05:36,563 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:05:36,564 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:05:36,950 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:20:00.000000.mseed HTTP/1.1" 200 37232640
+15:05:36,967 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:15:00.000000.mseed HTTP/1.1" 200 37257216
+15:05:36,969 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:25:00.000000.mseed HTTP/1.1" 200 37240832
+15:05:36,982 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:10:00.000000.mseed HTTP/1.1" 200 37249024
+15:07:19,51 root INFO Data retrieved for segment
+15:07:19,52 root INFO Spectrogram file created
+15:07:19,53 root INFO Downloading Section54of96
+15:07:19,54 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:07:19,680 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:07:19,681 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:07:19,681 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:07:19,681 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:07:20,292 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:30:00.000000.mseed HTTP/1.1" 200 36397056
+15:07:20,293 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:25:00.000000.mseed HTTP/1.1" 200 37240832
+15:07:20,293 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:40:00.000000.mseed HTTP/1.1" 200 36110336
+15:07:20,295 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:35:00.000000.mseed HTTP/1.1" 200 35860480
+15:08:59,371 root INFO Data retrieved for segment
+15:08:59,371 root INFO Spectrogram file created
+15:08:59,373 root INFO Downloading Section55of96
+15:08:59,373 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:09:00,128 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:09:00,131 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:09:00,132 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:09:00,132 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:09:00,645 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:55:00.000000.mseed HTTP/1.1" 200 36216832
+15:09:00,646 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:45:00.000000.mseed HTTP/1.1" 200 36368384
+15:09:00,646 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:50:00.000000.mseed HTTP/1.1" 200 36204544
+15:09:00,647 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:40:00.000000.mseed HTTP/1.1" 200 36110336
+15:10:42,304 root INFO Data retrieved for segment
+15:10:42,305 root INFO Spectrogram file created
+15:10:42,306 root INFO Downloading Section56of96
+15:10:42,306 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:10:42,943 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:10:42,945 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:10:42,947 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:10:42,947 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:10:43,455 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:05:00.000000.mseed HTTP/1.1" 200 35999744
+15:10:43,456 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:00:00.000000.mseed HTTP/1.1" 200 36130816
+15:10:43,456 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T13:55:00.000000.mseed HTTP/1.1" 200 36216832
+15:10:43,457 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:10:00.000000.mseed HTTP/1.1" 200 35950592
+15:19:40,184 root INFO Data retrieved for segment
+15:19:40,184 root INFO Spectrogram file created
+15:19:40,186 root INFO Downloading Section57of96
+15:19:40,186 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:19:40,911 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:19:40,914 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:19:40,915 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:19:40,916 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:19:41,675 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:15:00.000000.mseed HTTP/1.1" 200 35946496
+15:19:41,676 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:25:00.000000.mseed HTTP/1.1" 200 35975168
+15:19:41,694 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:20:00.000000.mseed HTTP/1.1" 200 35975168
+15:19:41,721 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:10:00.000000.mseed HTTP/1.1" 200 35950592
+15:21:22,98 root INFO Data retrieved for segment
+15:21:22,98 root INFO Spectrogram file created
+15:21:22,100 root INFO Downloading Section58of96
+15:21:22,100 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:21:22,737 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:21:22,738 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:21:22,739 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:21:22,739 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:21:23,215 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:30:00.000000.mseed HTTP/1.1" 200 35999744
+15:21:23,235 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:40:00.000000.mseed HTTP/1.1" 200 36147200
+15:21:23,240 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:35:00.000000.mseed HTTP/1.1" 200 35930112
+15:21:23,283 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:25:00.000000.mseed HTTP/1.1" 200 35975168
+15:23:02,189 root INFO Data retrieved for segment
+15:23:02,190 root INFO Spectrogram file created
+15:23:02,191 root INFO Downloading Section59of96
+15:23:02,191 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:23:02,983 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:23:02,983 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:23:02,985 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:23:02,986 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:23:03,507 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:50:00.000000.mseed HTTP/1.1" 200 36130816
+15:23:03,508 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:40:00.000000.mseed HTTP/1.1" 200 36147200
+15:23:03,508 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:55:00.000000.mseed HTTP/1.1" 200 36114432
+15:23:03,509 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:45:00.000000.mseed HTTP/1.1" 200 36216832
+15:26:55,787 root INFO Data retrieved for segment
+15:26:55,788 root INFO Spectrogram file created
+15:26:55,789 root INFO Downloading Section60of96
+15:26:55,789 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:26:56,472 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:26:56,473 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:26:56,475 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:26:56,476 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:26:56,981 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:10:00.000000.mseed HTTP/1.1" 200 35983360
+15:26:56,982 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T14:55:00.000000.mseed HTTP/1.1" 200 36114432
+15:26:56,983 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:00:00.000000.mseed HTTP/1.1" 200 36036608
+15:26:57,0 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:05:00.000015.mseed HTTP/1.1" 200 35987456
+15:28:37,256 root INFO Data retrieved for segment
+15:28:37,257 root INFO Spectrogram file created
+15:28:37,259 root INFO Downloading Section61of96
+15:28:37,259 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:28:38,53 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:28:38,54 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:28:38,56 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:28:38,56 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:28:38,532 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:25:00.000015.mseed HTTP/1.1" 200 36945920
+15:28:38,532 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:20:00.000000.mseed HTTP/1.1" 200 36884480
+15:28:38,533 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:15:00.000000.mseed HTTP/1.1" 200 36683776
+15:28:38,542 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:10:00.000000.mseed HTTP/1.1" 200 35983360
+15:30:20,438 root INFO Data retrieved for segment
+15:30:20,439 root INFO Spectrogram file created
+15:30:20,440 root INFO Downloading Section62of96
+15:30:20,440 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:30:21,63 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:30:21,64 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:30:21,66 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:30:21,67 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:30:21,470 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:35:00.000015.mseed HTTP/1.1" 200 36859904
+15:30:21,489 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:25:00.000015.mseed HTTP/1.1" 200 36945920
+15:30:21,513 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:40:00.000015.mseed HTTP/1.1" 200 36769792
+15:30:21,540 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:30:00.000015.mseed HTTP/1.1" 200 36917248
+15:32:01,706 root INFO Data retrieved for segment
+15:32:01,707 root INFO Spectrogram file created
+15:32:01,708 root INFO Downloading Section63of96
+15:32:01,708 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:32:02,331 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:32:02,331 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:32:02,333 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:32:02,334 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:32:02,750 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:55:00.000015.mseed HTTP/1.1" 200 35225600
+15:32:02,759 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:40:00.000015.mseed HTTP/1.1" 200 36769792
+15:32:02,794 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:45:00.000015.mseed HTTP/1.1" 200 35942400
+15:32:02,843 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:50:00.000015.mseed HTTP/1.1" 200 34955264
+15:33:42,552 root INFO Data retrieved for segment
+15:33:42,553 root INFO Spectrogram file created
+15:33:42,555 root INFO Downloading Section64of96
+15:33:42,555 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:33:43,208 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:33:43,210 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:33:43,212 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:33:43,213 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:33:43,602 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T15:55:00.000015.mseed HTTP/1.1" 200 35225600
+15:33:43,656 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:05:00.000015.mseed HTTP/1.1" 200 35418112
+15:33:43,668 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:10:00.000015.mseed HTTP/1.1" 200 35450880
+15:33:43,710 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:00:00.000015.mseed HTTP/1.1" 200 35536896
+15:37:33,326 root INFO Data retrieved for segment
+15:37:33,327 root INFO Spectrogram file created
+15:37:33,328 root INFO Downloading Section65of96
+15:37:33,328 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:37:34,114 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:37:34,118 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:37:34,119 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:37:34,119 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:37:34,120 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:37:34,632 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:15:53.593250.mseed HTTP/1.1" 200 29106176
+15:37:34,633 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:15:00.000015.mseed HTTP/1.1" 200 6316032
+15:37:34,636 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:25:00.000015.mseed HTTP/1.1" 200 35569664
+15:37:34,678 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:10:00.000015.mseed HTTP/1.1" 200 35450880
+15:37:34,699 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:20:00.000015.mseed HTTP/1.1" 200 35426304
+15:41:26,812 root INFO Data retrieved for segment
+15:41:26,813 root INFO Spectrogram file created
+15:41:26,814 root INFO Downloading Section66of96
+15:41:26,815 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:41:27,488 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:41:27,490 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:41:27,492 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:41:27,492 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:41:27,942 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:30:00.000015.mseed HTTP/1.1" 200 35790848
+15:41:27,959 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:25:00.000015.mseed HTTP/1.1" 200 35569664
+15:41:28,11 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:40:00.000015.mseed HTTP/1.1" 200 35708928
+15:41:28,28 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:35:00.000015.mseed HTTP/1.1" 200 35831808
+15:43:17,79 root INFO Data retrieved for segment
+15:43:17,80 root INFO Spectrogram file created
+15:43:17,81 root INFO Downloading Section67of96
+15:43:17,81 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:43:17,778 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:43:17,782 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:43:17,783 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:43:17,783 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:43:18,170 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:45:00.000015.mseed HTTP/1.1" 200 35622912
+15:43:18,192 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:40:00.000015.mseed HTTP/1.1" 200 35708928
+15:43:18,212 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:50:00.000015.mseed HTTP/1.1" 200 35762176
+15:43:18,238 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:55:00.000015.mseed HTTP/1.1" 200 35983360
+15:45:01,317 root INFO Data retrieved for segment
+15:45:01,317 root INFO Spectrogram file created
+15:45:01,319 root INFO Downloading Section68of96
+15:45:01,319 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:45:02,19 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:45:02,20 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:45:02,21 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:45:02,21 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:45:02,425 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T16:55:00.000015.mseed HTTP/1.1" 200 35983360
+15:45:02,428 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:05:00.000015.mseed HTTP/1.1" 200 36200448
+15:45:02,476 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:00:00.000015.mseed HTTP/1.1" 200 36143104
+15:45:02,502 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:10:00.000015.mseed HTTP/1.1" 200 36352000
+15:48:54,416 root INFO Data retrieved for segment
+15:48:54,417 root INFO Spectrogram file created
+15:48:54,418 root INFO Downloading Section69of96
+15:48:54,419 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:48:55,104 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:48:55,106 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:48:55,107 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:48:55,109 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:48:55,491 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:15:00.000015.mseed HTTP/1.1" 200 36225024
+15:48:55,511 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:25:00.000015.mseed HTTP/1.1" 200 36220928
+15:48:55,557 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:20:00.000015.mseed HTTP/1.1" 200 36179968
+15:48:55,580 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:10:00.000015.mseed HTTP/1.1" 200 36352000
+15:50:41,792 root INFO Data retrieved for segment
+15:50:41,793 root INFO Spectrogram file created
+15:50:41,794 root INFO Downloading Section70of96
+15:50:41,795 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:50:42,503 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:50:42,504 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:50:42,507 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:50:42,508 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:50:42,888 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:30:00.000015.mseed HTTP/1.1" 200 36720640
+15:50:42,920 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:40:00.000015.mseed HTTP/1.1" 200 36741120
+15:50:42,951 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:25:00.000015.mseed HTTP/1.1" 200 36220928
+15:50:42,964 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:35:00.000015.mseed HTTP/1.1" 200 36646912
+15:54:34,222 root INFO Data retrieved for segment
+15:54:34,223 root INFO Spectrogram file created
+15:54:34,224 root INFO Downloading Section71of96
+15:54:34,225 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:54:34,958 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:54:34,960 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:54:34,962 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:54:34,962 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:54:35,365 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:40:00.000015.mseed HTTP/1.1" 200 36741120
+15:54:35,556 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:55:00.000015.mseed HTTP/1.1" 200 37199872
+15:54:35,557 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:50:00.000015.mseed HTTP/1.1" 200 37224448
+15:54:35,558 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:45:00.000015.mseed HTTP/1.1" 200 37015552
+15:56:17,135 root INFO Data retrieved for segment
+15:56:17,136 root INFO Spectrogram file created
+15:56:17,138 root INFO Downloading Section72of96
+15:56:17,138 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+15:56:17,764 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:56:17,766 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:56:17,767 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:56:17,768 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+15:56:18,278 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:10:00.000015.mseed HTTP/1.1" 200 36474880
+15:56:18,279 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T17:55:00.000015.mseed HTTP/1.1" 200 37199872
+15:56:18,280 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:00:00.000015.mseed HTTP/1.1" 200 37277696
+15:56:18,280 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:05:00.000015.mseed HTTP/1.1" 200 37310464
+16:00:13,346 root INFO Data retrieved for segment
+16:00:13,346 root INFO Spectrogram file created
+16:00:13,348 root INFO Downloading Section73of96
+16:00:13,348 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:00:14,103 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:00:14,105 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:00:14,106 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:00:14,107 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:00:14,497 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:10:00.000015.mseed HTTP/1.1" 200 36474880
+16:00:14,710 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:20:00.000000.mseed HTTP/1.1" 200 35745792
+16:00:14,712 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:25:00.000000.mseed HTTP/1.1" 200 36032512
+16:00:14,720 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:15:00.000000.mseed HTTP/1.1" 200 36130816
+16:01:58,797 root INFO Data retrieved for segment
+16:01:58,797 root INFO Spectrogram file created
+16:01:58,799 root INFO Downloading Section74of96
+16:01:58,799 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:01:59,410 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:01:59,412 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:01:59,414 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:01:59,415 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:01:59,887 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:25:00.000000.mseed HTTP/1.1" 200 36032512
+16:01:59,888 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:40:00.000000.mseed HTTP/1.1" 200 36114432
+16:01:59,889 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:35:00.000000.mseed HTTP/1.1" 200 36265984
+16:01:59,916 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:30:00.000000.mseed HTTP/1.1" 200 36253696
+16:05:49,269 root INFO Data retrieved for segment
+16:05:49,270 root INFO Spectrogram file created
+16:05:49,271 root INFO Downloading Section75of96
+16:05:49,272 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:05:49,984 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:05:49,986 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:05:49,987 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:05:49,989 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:05:50,702 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:50:00.000000.mseed HTTP/1.1" 200 36159488
+16:05:50,702 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:55:00.000000.mseed HTTP/1.1" 200 36216832
+16:05:50,703 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:45:00.000000.mseed HTTP/1.1" 200 36159488
+16:05:50,709 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:40:00.000000.mseed HTTP/1.1" 200 36114432
+16:09:40,839 root INFO Data retrieved for segment
+16:09:40,840 root INFO Spectrogram file created
+16:09:40,842 root INFO Downloading Section76of96
+16:09:40,842 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:09:41,618 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:09:41,619 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:09:41,620 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:09:41,621 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:09:42,125 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T18:55:00.000000.mseed HTTP/1.1" 200 36216832
+16:09:42,227 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:10:00.000015.mseed HTTP/1.1" 200 36524032
+16:09:42,243 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:05:00.000015.mseed HTTP/1.1" 200 36511744
+16:09:42,278 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:00:00.000000.mseed HTTP/1.1" 200 36442112
+16:11:22,886 root INFO Data retrieved for segment
+16:11:22,887 root INFO Spectrogram file created
+16:11:22,888 root INFO Downloading Section77of96
+16:11:22,888 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:11:23,608 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:11:23,610 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:11:23,612 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:11:23,613 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:11:24,3 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:15:00.000015.mseed HTTP/1.1" 200 36638720
+16:11:24,21 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:25:00.000015.mseed HTTP/1.1" 200 37339136
+16:11:24,51 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:10:00.000015.mseed HTTP/1.1" 200 36524032
+16:11:24,58 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:20:00.000015.mseed HTTP/1.1" 200 37322752
+16:13:03,935 root INFO Data retrieved for segment
+16:13:03,936 root INFO Spectrogram file created
+16:13:03,937 root INFO Downloading Section78of96
+16:13:03,937 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:13:04,568 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:13:04,570 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:13:04,572 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:13:04,574 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:13:05,40 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:25:00.000015.mseed HTTP/1.1" 200 37339136
+16:13:05,52 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:30:00.000015.mseed HTTP/1.1" 200 37007360
+16:13:05,90 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:40:00.000015.mseed HTTP/1.1" 200 37335040
+16:13:05,121 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:35:00.000015.mseed HTTP/1.1" 200 36855808
+16:14:47,427 root INFO Data retrieved for segment
+16:14:47,428 root INFO Spectrogram file created
+16:14:47,429 root INFO Downloading Section79of96
+16:14:47,429 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:14:48,201 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:14:48,202 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:14:48,202 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:14:48,202 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:14:48,713 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:50:00.000015.mseed HTTP/1.1" 200 37937152
+16:14:48,714 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:55:00.000015.mseed HTTP/1.1" 200 37310464
+16:14:48,715 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:45:00.000015.mseed HTTP/1.1" 200 37519360
+16:14:48,715 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:40:00.000015.mseed HTTP/1.1" 200 37335040
+16:18:41,118 root INFO Data retrieved for segment
+16:18:41,119 root INFO Spectrogram file created
+16:18:41,120 root INFO Downloading Section80of96
+16:18:41,121 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:18:41,892 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:18:41,892 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:18:41,893 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:18:42,287 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:00:00.000015.mseed HTTP/1.1" 200 37314560
+16:18:42,323 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T19:55:00.000015.mseed HTTP/1.1" 200 37310464
+16:18:42,352 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:31,611 root INFO Data retrieved for segment
+16:19:31,611 root INFO Spectrogram file created
+16:19:31,613 root INFO Downloading Section81of96
+16:19:31,613 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:32,387 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:32,978 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:34,843 root INFO No data could be retrieved for segment
+16:19:34,846 root INFO Spectrogram file created
+16:19:34,846 root INFO Downloading Section82of96
+16:19:34,847 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:35,425 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:35,804 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:37,314 root INFO No data could be retrieved for segment
+16:19:37,318 root INFO Spectrogram file created
+16:19:37,318 root INFO Downloading Section83of96
+16:19:37,319 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:37,895 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:38,268 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:39,615 root INFO No data could be retrieved for segment
+16:19:39,619 root INFO Spectrogram file created
+16:19:39,619 root INFO Downloading Section84of96
+16:19:39,619 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:40,184 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:40,636 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:42,317 root INFO No data could be retrieved for segment
+16:19:42,321 root INFO Spectrogram file created
+16:19:42,321 root INFO Downloading Section85of96
+16:19:42,322 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:42,905 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:43,276 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:45,107 root INFO No data could be retrieved for segment
+16:19:45,109 root INFO Spectrogram file created
+16:19:45,109 root INFO Downloading Section86of96
+16:19:45,110 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:45,678 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:46,49 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:47,889 root INFO No data could be retrieved for segment
+16:19:47,891 root INFO Spectrogram file created
+16:19:47,892 root INFO Downloading Section87of96
+16:19:47,892 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:48,461 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:48,831 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:50,257 root INFO No data could be retrieved for segment
+16:19:50,260 root INFO Spectrogram file created
+16:19:50,261 root INFO Downloading Section88of96
+16:19:50,261 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:50,839 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:51,210 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:52,953 root INFO No data could be retrieved for segment
+16:19:52,955 root INFO Spectrogram file created
+16:19:52,955 root INFO Downloading Section89of96
+16:19:52,956 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:53,562 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:53,938 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:55,608 root INFO No data could be retrieved for segment
+16:19:55,611 root INFO Spectrogram file created
+16:19:55,612 root INFO Downloading Section90of96
+16:19:55,612 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:56,185 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:56,563 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:19:57,828 root INFO No data could be retrieved for segment
+16:19:57,834 root INFO Spectrogram file created
+16:19:57,836 root INFO Downloading Section91of96
+16:19:57,837 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:19:58,417 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:19:58,798 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:20:00,235 root INFO No data could be retrieved for segment
+16:20:00,239 root INFO Spectrogram file created
+16:20:00,239 root INFO Downloading Section92of96
+16:20:00,239 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:20:00,831 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:20:01,393 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:20:03,56 root INFO No data could be retrieved for segment
+16:20:03,58 root INFO Spectrogram file created
+16:20:03,58 root INFO Downloading Section93of96
+16:20:03,59 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:20:03,645 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:20:04,89 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:20:05,835 root INFO No data could be retrieved for segment
+16:20:05,838 root INFO Spectrogram file created
+16:20:05,839 root INFO Downloading Section94of96
+16:20:05,839 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:20:06,431 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:20:06,805 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:20:08,385 root INFO No data could be retrieved for segment
+16:20:08,389 root INFO Spectrogram file created
+16:20:08,389 root INFO Downloading Section95of96
+16:20:08,389 fsspec.http DEBUG https://rawdata.oceanobservatories.org/files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/
+16:20:08,949 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): rawdata.oceanobservatories.org:443
+16:20:09,322 urllib3.connectionpool DEBUG https://rawdata.oceanobservatories.org:443 "GET /files/CE04OSBP/LJ01C/11-HYDBBA105/2019/01/01/OO-HYEA1--YDH-2019-01-01T20:05:00.000015.mseed HTTP/1.1" 200 737280
+16:20:11,146 root INFO No data could be retrieved for segment
+16:20:11,148 root INFO Spectrogram file created
+16:20:11,149 root INFO Processing loop complete

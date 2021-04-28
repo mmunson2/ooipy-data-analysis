@@ -1,0 +1,38 @@
+________________________________________________________________________________
+January_2019 Metadata
+
+Start Time: 2019-01-01 00:00:00
+End Time: 2019-01-02 00:00:00
+Elapsed Length: 1 day, 0:00:00 (hh:mm:ss)
+
+Segment Length: 15 minutes
+Segment Count: 96 segments
+
+Missed Segments: 24 segments
+
+________________________________________________________________________________
+Data Retrieval Settings:
+
+Node: LJ01C
+Node Location: Unregistered Location
+
+Minimum Frequency: None Hz
+Maximum Frequency: None Hz
+
+________________________________________________________________________________
+Power Spectral Density Calculation Settings:
+
+Window Function: hann
+
+Data Block Length: 4096
+
+Overlap Percentage: 0.5
+
+Averaging Method: median
+
+Interpolation Method: None
+
+Scale: log
+
+________________________________________________________________________________
+Notes:

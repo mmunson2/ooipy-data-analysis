@@ -7,6 +7,8 @@ from ooipy.request.hydrophone_request import get_acoustic_data
 from ooipy.hydrophone.basic import Spectrogram
 import pickle
 import logging
+
+import Welch_Percentile
 from segment_data import SegmentData
 from meta_file import MetaFile
 from profiling_file import ProfilingFile
@@ -102,7 +104,9 @@ class ExtendedSpectrogram:
         # scale = self.kwargs.get("scale")
 
         # Modified 12/20/2020: Switched to compute_spectrogram_wp
-        spec2 = segment.compute_spectrogram_wp(
+        spec2 = Welch_Percentile.compute_spectrogram_wp(
+            segment.data,
+            segment.stats,
             win=win,
             L=length,
             avg_time=avg_time,
@@ -111,7 +115,7 @@ class ExtendedSpectrogram:
             percentile=percentile,
             )
 
-        # compressing spectrogam by averaging (mean) over each 60s interval
+        # compressing spectrogram by averaging (mean) over each 60s interval
         spec_1m = []
         spec = ooipy.Spectrogram(time=np.linspace(0, 59, 60), freq=spec2.freq,
                                  values=None)

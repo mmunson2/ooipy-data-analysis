@@ -14,9 +14,9 @@ def last_day_of_month(any_day):
 
 if __name__ == '__main__':
 
-    start = datetime(-1, -1, -1, 0, 0, 0)
-    end = datetime(-1, -1, -1, 0, 0, 0)
-    hydrophone = 'INVALID'
+    start = datetime(2019, 1, 1, 0, 0, 0)
+    end = datetime(2019, 1, 2, 0, 0, 0)
+    hydrophone = 'LJ01C'
 
     end_of_month = last_day_of_month(start)
 
@@ -38,10 +38,6 @@ if __name__ == '__main__':
 
     for i in range(0, len(start_times)):
 
-        # This part only works on the remote machines
-        os.chdir(os.path.expanduser("~"))
-        os.chdir('code')
-
         print("Start Time: ", start_times[i])
         print("End Time: ", end_times[i])
         print("Name: ", names[i])
@@ -52,8 +48,4 @@ if __name__ == '__main__':
                                    names[i],
                                    15,
                                    node=hydrophone)
-
-
-    os.system('sudo systemctl poweroff')
-
 
