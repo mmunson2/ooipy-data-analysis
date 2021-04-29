@@ -192,7 +192,7 @@ def frequency_calibration(stats, N):
     """
     # Load calibation file and get appropriate calibration info
 
-    filename = '/home/fschwock/Desktop/ooipy-data-analysis/data-retrieval/calibration_by_assetID.csv' # TODO
+    filename = '~/GitHub/ooipy-data-analysis/data-retrieval/calibration_by_assetID.csv' # TODO
     # Use deployment CSV to determine asset_ID
     assetID = get_asset_ID(stats)
 
