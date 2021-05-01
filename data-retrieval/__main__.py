@@ -11,12 +11,13 @@ def last_day_of_month(any_day):
 
     return next_month
 
-
+# 6/5/2016 12:00:00 - 23:59:59
+# Axial base
 if __name__ == '__main__':
 
-    start = datetime(2019, 1, 1, 0, 0, 0)
-    end = datetime(2019, 1, 2, 0, 0, 0)
-    hydrophone = 'LJ01C'
+    start = datetime(2016, 6, 5, 12, 0, 0)
+    end = datetime(2016, 6, 5, 23, 59, 59)
+    hydrophone = 'LJ03A'
 
     end_of_month = last_day_of_month(start)
 
