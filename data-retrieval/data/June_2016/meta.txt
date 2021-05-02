@@ -1,14 +1,15 @@
 ________________________________________________________________________________
 June_2016 Metadata
 
-Start Time: 2016-06-05 12:00:00
-End Time: 2016-06-05 23:59:59
-Elapsed Length: 11:59:59 (hh:mm:ss)
+Start Time: 2016-06-05 23:30:00
+End Time: 2016-06-06 00:00:00
+Elapsed Length: 0:30:00 (hh:mm:ss)
 
 Segment Length: 15 minutes
-Segment Count: 48 segments
+Segment Count: 2 segments
 
-Missed Segments: missed segment count not recorded!
+Missed Segments: 0 segments
+
 ________________________________________________________________________________
 Data Retrieval Settings:
 

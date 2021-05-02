@@ -15,8 +15,8 @@ def last_day_of_month(any_day):
 # Axial base
 if __name__ == '__main__':
 
-    start = datetime(2016, 6, 5, 12, 0, 0)
-    end = datetime(2016, 6, 5, 23, 59, 59)
+    start = datetime(2016, 6, 5, 23, 30, 0)
+    end = datetime(2016, 6, 6, 0, 0, 0)
     hydrophone = 'LJ03A'
 
     end_of_month = last_day_of_month(start)
