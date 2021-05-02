@@ -94,10 +94,9 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 spectrogram = None
                 return None
             else:
-                calib_time = stats.starttime.datetime
-                tmp = frequency_calibration(stats, int(L / 2 + 1))
+                sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
-                Pxx = 10 * np.log10(Pxx * np.power(10, tmp / 10)) - 128.9
+                Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
 
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
@@ -122,13 +121,13 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 spectrogram = None
                 return None
             else:
-                calib_time = stats.starttime.datetime
-                tmp = frequency_calibration(stats, int(L / 2 + 1))
+                sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
-                Pxx = 10 * np.log10(Pxx * np.power(10, tmp / 10)) - 128.9
+                Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
+
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
-                            + datetime.timedelta(seconds=n * avg_time))
+                            + datetime.timedelta(seconds=n * L / fs))
 
         # compute PSD for residual segment
         # if segment has more than L samples
@@ -148,14 +147,13 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 spectrogram = None
                 return None
             else:
-                calib_time = stats.starttime.datetime
-                tmp = frequency_calibration(stats, int(L / 2 + 1))
+                sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
-                Pxx = 10 * np.log10(Pxx * np.power(10, tmp / 10)) - 128.9
+                Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
+
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
-                            + datetime.timedelta(seconds=(nbins - 1)
-                                                         * avg_time))
+                            + datetime.timedelta(seconds=n * L / fs))
 
     if len(time) == 0:
         if verbose:
