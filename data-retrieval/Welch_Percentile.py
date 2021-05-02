@@ -94,10 +94,9 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 spectrogram = None
                 return None
             else:
-                calib_time = stats.starttime.datetime
-                tmp = frequency_calibration(stats, int(L / 2 + 1))
+                sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
-                Pxx = 10 * np.log10(Pxx * np.power(10, tmp / 10)) - 128.9
+                Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
 
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
@@ -122,10 +121,9 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 spectrogram = None
                 return None
             else:
-                calib_time = stats.starttime.datetime
-                tmp = frequency_calibration(stats, int(L / 2 + 1))
+                sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
-                Pxx = 10 * np.log10(Pxx * np.power(10, tmp / 10)) - 128.9
+                Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
                             + datetime.timedelta(seconds=n * avg_time))
@@ -148,14 +146,13 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 spectrogram = None
                 return None
             else:
-                calib_time = stats.starttime.datetime
-                tmp = frequency_calibration(stats, int(L / 2 + 1))
+                sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
-                Pxx = 10 * np.log10(Pxx * np.power(10, tmp / 10)) - 128.9
+                Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
                             + datetime.timedelta(seconds=(nbins - 1)
-                                                         * avg_time))
+                                                 * avg_time))
 
     if len(time) == 0:
         if verbose:
