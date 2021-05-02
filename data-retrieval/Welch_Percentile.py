@@ -124,10 +124,9 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
                 Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
-
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
-                            + datetime.timedelta(seconds=n * L / fs))
+                            + datetime.timedelta(seconds=n * avg_time))
 
         # compute PSD for residual segment
         # if segment has more than L samples
@@ -150,10 +149,10 @@ def compute_spectrogram_wp(data, stats, win='hann', L=4096, avg_time=None,
                 sense_corr = -frequency_calibration(stats, int(L / 2 + 1))
 
                 Pxx = 10 * np.log10(Pxx * np.power(10, sense_corr / 10))
-
                 specgram.append(Pxx)
                 time.append(stats.starttime.datetime
-                            + datetime.timedelta(seconds=n * L / fs))
+                            + datetime.timedelta(seconds=(nbins - 1)
+                                                 * avg_time))
 
     if len(time) == 0:
         if verbose:
